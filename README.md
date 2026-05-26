@@ -1,7 +1,7 @@
 ### MatrixPortal Raspberry pi pico 2040 
 
 Este proyecto te permite mostrar imagenes en formato BMP, en una, dos y hasta 4 pantallas RGB LED MATRIX con una RASPBERRY PI PICO 2040
-cada una con una resolucion de 32x64 logrando incluso reproducir imagenes divididas cada 32 pixeles creando la ilucion de animacion simple, ideal para multiples proyectos a futuro
+cada una con una resolucion de 32x64 logrando incluso reproducir imagenes divididas cada 32 pixeles creando la ilucion de animacion simple,PI PICO 2040 ideal para multiples proyectos a futuro
 
 Se hace uso de circuitpython permitiendo modificar en tiempo real las imagenes y el codigo sin necesidad de reprogramar el raspberry pi pico
 
